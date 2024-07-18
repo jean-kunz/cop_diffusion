@@ -1,2 +1,6 @@
 poetry.lock
 nbks/data/**
+**/__pycache__/**
+runs/**
+models/**
+.DS_Store

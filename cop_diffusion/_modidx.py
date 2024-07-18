@@ -4,4 +4,6 @@ d = { 'settings': { 'doc_baseurl': '/cop_diffusion',
                 'doc_host': 'https://jean-kunz.github.io',
                 'git_url': 'https://github.com/jean-kunz/cop_diffusion',
                 'lib_path': 'cop_diffusion'},
-  'syms': {'cop_diffusion.start': {}}}
+  'syms': { 'cop_diffusion.start': {},
+            'cop_diffusion.utils': { 'cop_diffusion.utils.load_model': ('utils.html#load_model', 'cop_diffusion/utils.py'),
+                                     'cop_diffusion.utils.save_model': ('utils.html#save_model', 'cop_diffusion/utils.py')}}}
