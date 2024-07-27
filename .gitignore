@@ -4,3 +4,4 @@ nbks/data/**
 runs/**
 models/**
 .DS_Store
+nbks/mnist/**
