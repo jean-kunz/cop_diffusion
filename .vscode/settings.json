@@ -1,6 +1,8 @@
 {
+    "python.defaultInterpreterPath": "/Users/jkunz/Library/Caches/pypoetry/virtualenvs/cop-diffusion-04jlPuwc-py3.12/bin/python",
     "files.trimTrailingWhitespace": true,
     "files.trimFinalNewlines": true,
     "editor.bracketPairColorization.enabled": true,
-    "editor.guides.bracketPairs": true
+    "editor.guides.bracketPairs": true,
+    "python.analysis.typeCheckingMode": "basic"
 }
